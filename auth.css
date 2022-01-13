@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+#AuthForm{
+    width: 400px;
+    margin: 10rem auto;
+    padding: 20px 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}

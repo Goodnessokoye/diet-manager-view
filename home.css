@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#FormText{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+#HomeForm{
+    display: flex;
+    width: 500px;
+    margin: 4rem auto;
+    justify-content: space-evenly;
+    align-items: center; 
+}
+
+#InputCalorie{
+    width: 250px;
+}
